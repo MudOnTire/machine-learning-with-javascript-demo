@@ -1,0 +1,11 @@
+{
+  "name": "machine-learning-with-javascript-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:MudOnTire/machine-learning-with-javascript-demo.git",
+  "author": "MudOnTire <895157882@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "brain.js": "^1.6.1"
+  }
+}
